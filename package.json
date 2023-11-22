@@ -12,10 +12,11 @@
   },
   "dependencies": {
     "blessed": "^0.1.81",
-    "blessed-contrib": "^4.5.5",
-    "canvas": "^1.6.13",
-    "drawille": "^1.1.0",
-    "three": "^0.82.1"
+    "blessed-contrib": "^4.11.0",
+    "canvas": "^2.11.2",
+    "drawille": "^1.1.1",
+    "gl": "^6.0.2",
+    "three": "^0.158.0"
   },
   "url": "https://github.com/zz85/threejs-term"
 }
